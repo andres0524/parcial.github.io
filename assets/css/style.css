@@ -7,30 +7,6 @@ body {
 }
 
 
-
-#team .carousel-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
-  position: relative;
-  height: 70vh;
-  padding-top: 60px;
-}
-
-#team .carousel-control-prev, #team .carousel-control-next {
-  width: 10%;
-}
-
-#team .carousel-control-next-icon, #team .carousel-control-prev-icon {
-  background: none;
-  font-size: 48px;
-  line-height: 1;
-  width: auto;
-  height: auto;
-}
-
 /*--------------------------------------------------------------
 # Team
 --------------------------------------------------------------*/
