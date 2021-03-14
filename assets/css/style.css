@@ -7,11 +7,11 @@ body {
 }
 
 
-#hero .carousel-control-prev, #hero .carousel-control-next {
+#about .carousel-control-prev, #about .carousel-control-next {
   width: 10%;
 }
 
-#hero .carousel-control-next-icon, #hero .carousel-control-prev-icon {
+#about .carousel-control-next-icon, #about .carousel-control-prev-icon {
   background: none;
   font-size: 48px;
   line-height: 1;
@@ -19,7 +19,7 @@ body {
   height: auto;
 }
 
-#hero .carousel-container {
+#about .carousel-container {
   display: flex;
   justify-content: center;
   align-items: center;
