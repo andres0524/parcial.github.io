@@ -1,10 +1,3 @@
-/**
-* Template Name: DevFolio - v4.0.1
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -125,7 +118,7 @@ a:hover {
   vertical-align: middle;
 }
 
-/*--/ Sections /--*/
+/*--/ Secciones /--*/
 .sect-4 {
   padding: 4rem 0;
 }
@@ -138,14 +131,14 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*--/ Title s /--*/
+/*--/ Titulo s /--*/
 .title-s {
   font-weight: 600;
   color: #1e1e1e;
   font-size: 1.1rem;
 }
 
-/*--/ Title A /--*/
+/*--/ Titulo A /--*/
 .title-box {
   margin-bottom: 4rem;
 }
@@ -169,7 +162,7 @@ a:hover {
   margin: 0 auto;
 }
 
-/*--/ Title Left /--*/
+/*--/ Titulo Left /--*/
 .title-box-2 {
   margin-bottom: 3rem;
 }
@@ -251,7 +244,7 @@ a:hover {
   margin-right: 10px;
 }
 
-/*------/ Ico Circle /------*/
+/*------/ Icon /------*/
 .ico-circle {
   height: 100px;
   width: 100px;
@@ -714,7 +707,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+# Hero
 --------------------------------------------------------------*/
 .hero {
   height: 100vh;
@@ -841,7 +834,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Servicios
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
@@ -917,7 +910,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio
+# Portafolio
 --------------------------------------------------------------*/
 .work-box {
   margin-bottom: 3rem;
@@ -971,7 +964,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# Portafolio Detalles
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
@@ -1036,8 +1029,8 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Testimonials
---------------------------------------------------------------*/
+# Testimonios
+--------------------------------------------------------------
 .testimonial-box {
   color: #fff;
   text-align: center;
@@ -1105,9 +1098,9 @@ a:hover {
 .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #fff;
 }
-
+*/
 /*--------------------------------------------------------------
-# Contact
+# Contacto
 --------------------------------------------------------------*/
 .footer-paralax {
   padding: 4rem 0 0 0;
@@ -1213,7 +1206,7 @@ a:hover {
 
 /*--------------------------------------------------------------
 # Blog
---------------------------------------------------------------*/
+--------------------------------------------------------------
 @media (min-width: 767px) {
   .card-blog {
     margin-bottom: 3rem;
@@ -1271,9 +1264,10 @@ a:hover {
   float: right;
 }
 
+*/
 /*--------------------------------------------------------------
 # Blog Single
---------------------------------------------------------------*/
+--------------------------------------------------------------
 .post-box,
 .form-comments,
 .box-comments,
@@ -1329,8 +1323,9 @@ a:hover {
   padding: 18px;
   font-style: italic;
 }
+*/
 
-/*------/ Comments /------*/
+/*------/ Commentarios /------*/
 .box-comments .list-comments li {
   padding-bottom: 40px;
 }
