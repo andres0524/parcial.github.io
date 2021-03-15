@@ -442,7 +442,8 @@ a:hover {
                               padding: 2px 16px;
                               background-color: #000;
                               color: white;
-                              border-radius: 1.3rem;
+                              border-top-left-radius: 1.3rem;
+                              border-top-right-radius: 1.3rem;
                             }
                             
                             .modal-body {padding: 2px 16px;}
@@ -451,7 +452,8 @@ a:hover {
                               padding: 2px 16px;
                               background-color: #000;
                               color: white;
-                              border-radius: 1.3rem;
+                              border-top-left-radius: 1.3rem;
+                              border-top-right-radius: 1.3rem;
                             }
 
                             .img-modal{
