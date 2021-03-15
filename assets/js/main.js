@@ -168,19 +168,6 @@
     });
   }
 
-  const typed1 = select('.typed1')
-  if (typed1) {
-    let typed1_strings = typed1.getAttribute('data-typed1-items')
-    typed1_strings = typed1_strings.split(',')
-    new Typed1('.typed1', {
-      strings: typed1_strings,
-      loop: true,
-      typeSpeed: 100,
-      backSpeed: 50,
-      backDelay: 2000
-    });
-  }
-
   /**
    * Initiate portfolio lightbox 
    */
