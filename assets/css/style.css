@@ -402,6 +402,7 @@ a:hover {
                               margin: auto;
                               padding: 0;
                               border: 1px solid #888;
+                              border-radius: 15px;
                               width: 80%;
                               box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
                               -webkit-animation-name: animatetop;
@@ -423,7 +424,7 @@ a:hover {
                             
                             /* The Close Button */
                             .close {
-                              color: white;
+                              color: #000;
                               float: right;
                               font-size: 28px;
                               font-weight: bold;
@@ -431,14 +432,14 @@ a:hover {
                             
                             .close:hover,
                             .close:focus {
-                              color: #000;
+                              color: #fff;
                               text-decoration: none;
                               cursor: pointer;
                             }
                             
                             .modal-header {
                               padding: 2px 16px;
-                              background-color: #2f6900;
+                              background-color: #000;
                               color: white;
                             }
                             
@@ -446,7 +447,7 @@ a:hover {
                             
                             .modal-footer {
                               padding: 2px 16px;
-                              background-color: #2f6900;
+                              background-color: #000;
                               color: white;
                             }
 
